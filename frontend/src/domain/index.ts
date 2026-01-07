@@ -1,2 +1,2 @@
 // Domain modules export
-export {};
+export * as diceConfig from './diceConfig/_module';
